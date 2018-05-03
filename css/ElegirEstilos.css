@@ -9,10 +9,11 @@
 }	
 
 h1{
+
 	font: bold 20px verdana, sans-serif;
  	text-align: center;
   	margin: 1px auto;
-    margin-top: 15%;
+    margin-top: 18%;
     letter-spacing: 3px;
     word-spacing: 10px;
     font-size: 24pt;  
@@ -42,7 +43,7 @@ input[type="button"] {
   
 }
 input:focus, input[type="button"]:hover {
-    border-color:rgb(73, 182, 224);
+    border-color:rgb(51, 169, 216);
     background:rgb(73, 182, 224);
     box-shadow: 0 0 0 0.2rem rgb(73, 182, 224);
 }
